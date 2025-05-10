@@ -1,4 +1,5 @@
 # LearnGithub-demo
+
 Learning Github.
 <br>
-Author- Sujen Rajthala
+Author- Sujen Man Rajthala
